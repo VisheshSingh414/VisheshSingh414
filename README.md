@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, I'm Vishesh Singh Latwal
 
-<!--
-**VisheshSingh414/VisheshSingh414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Business Analyst  
+🐍 Python | SQL | Excel | Power BI | Tableau | ML & GenAI
 
-Here are some ideas to get you started:
+I analyze data to uncover insights, build dashboards, and support data-driven business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Skills & Tools
+- **Programming:** Python (Pandas, NumPy)
+- **Databases:** SQL (Joins, CTEs, Window Functions)
+- **Spreadsheets:** Excel (Pivot Tables, Lookups)
+- **Visualization:** Power BI, Tableau
+- **Machine Learning:** Regression, Classification
+- **GenAI:** Prompt Engineering, LLM-based Analysis
+
+---
+
+### 📂 Featured Projects
+- **Vendor Performance Analysis** – SQL, Python & Power BI business insights  
+- **Airbnb Data Analysis** – Power BI dashboard & comparative analysis  
+- **Zepto Business Analysis** – SQL-based business metrics  
+- **Netflix Clustering** – ML clustering on media dataset  
+- **Amazon Prime EDA** – Python exploratory data analysis  
+
+---
+
+### 📜 Certifications
+- Google Data Analytics
+
+---
+
+### 📫 Connect with Me
+- LinkedIn:  www.linkedin.com/in/vishesh-singh-latwal-b262a51a2
+- Email: thakurvishesh.414@gmail.com
