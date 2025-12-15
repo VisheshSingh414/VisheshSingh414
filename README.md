@@ -27,7 +27,11 @@ I analyze data to uncover insights, build dashboards, and support data-driven bu
 ---
 
 ### 📜 Certifications
-- Google Data Analytics
+-  AlmaBetter : Full Stack Data Science Program
+-  Google Data Analytics
+-  Microsoft Business analytics with excel
+-  Generative AI Mastermind
+-  AI for Techie : Python using AI
 
 ---
 
