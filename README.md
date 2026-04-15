@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Vishesh Singh Latwal
 
 📊 Data Analyst | Business Analyst  
-🐍 Python | SQL | Excel | Power BI | Tableau | ML & GenAI
+🐍 Python | SQL | Excel | Power BI | Tableau | ML & GenAI | n8n | Streamlit
 
 I analyze data to uncover insights, build dashboards, and support data-driven business decisions.
 
